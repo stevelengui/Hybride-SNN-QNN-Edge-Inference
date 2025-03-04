@@ -5,7 +5,7 @@ Deployment of Spiking Neural Networks (SNN) on RISC-V accelerators for IoT devic
 
 ## Features  
 - QEMU-based RISC-V simulation.  
-- Power/performance benchmarks vs ARM.  
+- Power/performance benchmarks vs Risc-V-SNN-Qemu or ARM.  
 - PyTorch-to-RISC-V deployment pipeline.  
 
 ## Installation  
